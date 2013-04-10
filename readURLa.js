@@ -1,5 +1,6 @@
 #pragma strict
 
+//edit between "" below to change to your own URL;
 var url = "http://photong23d.azurewebsites.net/data.aspx";
 var textof : String;
 static var dataGlobal = "";
