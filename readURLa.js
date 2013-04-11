@@ -1,4 +1,5 @@
 #pragma strict
+//released under the MIT license by G23D Studios www.3dg2.com;
 
 //edit between "" below to change to your own URL;
 var url = "http://photong23d.azurewebsites.net/data.aspx";
